@@ -5,7 +5,7 @@ node_js:
 env: 
    - AUTH=true
    - USER=test
-   - PASSWORD=secret
+   - PASSWORD=secret2
 install: npm install
 before_script: npm start
 script: 
